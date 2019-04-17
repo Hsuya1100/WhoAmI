@@ -1,0 +1,81 @@
+.container {
+  margin-top: 20px;
+}
+.page {
+  display: none;
+}
+.page-active {
+  display: block;
+}
+#about{
+	padding-top:7%;
+}
+#about_hr{
+
+}
+#padd{
+	padding-top: 16%;
+
+}
+#img-ab{
+	width: 600px;
+}
+#border-about{
+	border-left: 1em solid #50AFFC;
+	/*font-family: 'Dancing Script', cursive;*/
+	/*font-family: 'Charm', cursive;*/
+/*font-family: 'Kaushan Script', cursive;*/
+/*font-family: 'Cookie', cursive;*/
+/*font-family: 'PT Sans', sans-serif;*/
+/*font-family: 'Lobster', cursive;*/
+/*font-family: 'Indie Flower', cursive;*/
+
+/*font-family: 'Dancing Script', cursive;*/
+/*font-family: 'Shadows Into Light', cursive;*/
+}
+#name,#name1{
+	font-family: 'Charm', cursive;
+}
+#list1{
+font-family: 'PT Sans', sans-serif;	
+}
+#name1:hover{
+	color: #3A98E6;
+	text-decoration:underline;
+
+}
+#img-ab:hover{
+	filter:blur(1.5px);
+}
+#pad_hobbies{
+	padding-top:100px;
+	padding-left:50px; 	
+}
+#img-hb{
+	height: 100%;
+	width: 70%;
+
+
+}
+
+/*
+*/
+#allahabad{
+	text-decoration: line-through;
+	color:red;
+}
+footer{
+	background: #5D696F;
+	color:white;
+}
+#friends{
+	/*display:flex;*/
+	/*justify-content: center;*/
+	border-radius: 30px;
+}
+#frnddiv{
+	display:flex;
+	justify-content: center;
+	/*border-radius: 30px;*/
+
+}
